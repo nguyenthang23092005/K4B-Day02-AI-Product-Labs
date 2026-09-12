@@ -4,9 +4,9 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
+- Họ và tên: Nguyễn Văn Thăng
+- Mã học viên: 2A202602835
+- Nhóm: B1 - Không thích điểm danh
 - Candidate problem nhóm chọn:
 
 ---
